@@ -1,0 +1,16 @@
+h1 {
+     color: tomato;
+     font-size: 50px;
+     text-decoration: underline;
+}
+body {
+background-color: silver;
+}
+ul li { 
+    color: rgb(71, 255, 148);
+    font-size: 25px;
+}
+ol li {
+       color:rgb(217, 255, 0);
+       font-size: 25px;
+ }

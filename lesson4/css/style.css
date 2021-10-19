@@ -1,0 +1,16 @@
+table {
+    width: 100%;
+}
+body {
+    background-color: silver;
+}
+td {
+    color:black;
+    border: 2px solid black;
+}
+td.first {
+    width: 30%;
+}
+td.second {
+    width: 70%;
+}
